@@ -1,0 +1,9 @@
+openai_key.txt
+
+*.pyc
+*.out
+
+results/
+saved_results/
+saved_results
+.vscode/
